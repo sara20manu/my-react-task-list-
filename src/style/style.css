@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Cardo&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Cardo", serif;
+}
+
+span.error {
+  display: block;
+  color: rgb(3, 126, 250);
+  font-style: italic;
+  font-size: 0.8rem;
+  margin-top: 0.2rem;
+  margin-left: 0.6rem;
+}
+
+.range {
+  margin-left: 22px;
+  color: #08376b;
+  width: 70px;
+}
